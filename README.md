@@ -2,6 +2,8 @@
 
 Projet de sécurité offensive permettant d'installer un agent sur une machine Windows, dans le but d'en prendre le contrôle malveillant via une interface d'administration moderne (C&C).
 
+Le code source est privé.
+
 ## 🔍 Contenue
 
 Ce projet embarque :
