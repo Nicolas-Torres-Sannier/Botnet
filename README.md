@@ -1,10 +1,10 @@
 # Botnet
 
-Projet de sécurité offensive permettant d'installer un agent sur une machine Windows, dans le but d'en prendre le contrôle malveillant via une interface d'administration moderne (C&C).
+Projet de sécurité offensive permettant de prendre le contrôle malveillant de machines Windows via une interface d'administration moderne (C&C).
 
 Le code source est privé.
 
-## 🔍 Contenue
+## Contenue
 
 Ce projet embarque :
 
@@ -23,9 +23,7 @@ Ce projet embarque :
 - Éteinte/redémarrage/verrouillage… 
 - etc
 
-### 🥷🏿🔐 Infrastructure système et réseau sécurisée 
+### 🔐 Infrastructure système et réseau sécurisée 
  Réseau attaquant : 
-- Cloisonnement réseau
-- FW
-- DMZ
-- Durcissement d’OS
+- Durcissement système 
+- Durcissement réseaux (cloissonement, DMZ, FW...)
